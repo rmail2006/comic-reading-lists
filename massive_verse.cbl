@@ -110,7 +110,18 @@
     <Book Series="Rogue Sun" Number="24" Volume="2022" />
 
     <!-- Modern Era (2025–2026 Launches) -->
-    <Book Series="Supermassive" Number="2025" Volume="2022" />
+    <Book Series="Rogue Sun" Number="25" Volume="2022" />
+    <Book Series="Rogue Sun" Number="26" Volume="2022" />
+    <Book Series="Rogue Sun" Number="27" Volume="2022" />
+    <Book Series="Rogue Sun" Number="28" Volume="2022" />
+    <Book Series="Rogue Sun" Number="29" Volume="2022" />
+    <Book Series="Rogue Sun" Number="30" Volume="2022" />
+    <Book Series="Rogue Sun" Number="31" Volume="2022" />
+    <Book Series="Rogue Sun" Number="32" Volume="2022" />
+    <Book Series="Rogue Sun" Number="33" Volume="2022" />
+    <Book Series="Rogue Sun" Number="34" Volume="2022" />
+    <Book Series="Rogue Sun" Number="35" Volume="2022" />
+    <Book Series="Rogue Sun" Number="36" Volume="2022" />
     <Book Series="Radiant Black" Number="31" Volume="2021" />
     <Book Series="Radiant Black" Number="32" Volume="2021" />
     <Book Series="Radiant Black" Number="33" Volume="2021" />
