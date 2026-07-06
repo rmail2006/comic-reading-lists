@@ -6,6 +6,7 @@
     <Book Series="Ultimate Fantastic Four" Number="22" Volume="2003" />
     <Book Series="Ultimate Fantastic Four" Number="23" Volume="2003" />
     <Book Series="Marvel Zombies: Dead Days" Number="1" Volume="2007" />
+    <Book Series="Marvel Zombies: Evil Evolution" Number="1" Volume="2009" />
     <Book Series="Ultimate Fantastic Four" Number="30" Volume="2003" />
     <Book Series="Ultimate Fantastic Four" Number="31" Volume="2003" />
     <Book Series="Ultimate Fantastic Four" Number="32" Volume="2003" />
@@ -35,6 +36,17 @@
     <Book Series="Marvel Zombies 4" Number="2" Volume="2009" />
     <Book Series="Marvel Zombies 4" Number="3" Volume="2009" />
     <Book Series="Marvel Zombies 4" Number="4" Volume="2009" />
+    <Book Series="Marvel Zombies 5" Number="1" Volume="2010" />
+    <Book Series="Marvel Zombies 5" Number="2" Volume="2010" />
+    <Book Series="Marvel Zombies 5" Number="3" Volume="2010" />
+    <Book Series="Marvel Zombies 5" Number="4" Volume="2010" />
+    <Book Series="Marvel Zombies 5" Number="5" Volume="2010" />
+    <Book Series="Marvel Zombies Destroy!" Number="1" Volume="2012" />
+    <Book Series="Marvel Zombies Destroy!" Number="2" Volume="2012" />
+    <Book Series="Marvel Zombies Destroy!" Number="3" Volume="2012" />
+    <Book Series="Marvel Zombies Destroy!" Number="4" Volume="2012" />
+    <Book Series="Marvel Zombies Destroy!" Number="5" Volume="2012" />
+    <Book Series="Marvel Zombies Halloween" Number="1" Volume="2012" />
     <Book Series="Marvel Zombies Return" Number="1" Volume="2009" />
     <Book Series="Marvel Zombies Return" Number="2" Volume="2009" />
     <Book Series="Marvel Zombies Return" Number="3" Volume="2009" />
