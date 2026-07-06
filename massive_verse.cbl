@@ -15,7 +15,6 @@
     <Book Series="Radiant Black" Number="10" Volume="2021" />
     <Book Series="Radiant Black" Number="11" Volume="2021" />
     <Book Series="Radiant Black" Number="12" Volume="2021" />
-    <Book Series="Inferno Girl Red" Number="1" Volume="2023" />
     <Book Series="Supermassive" Number="2022" Volume="2022" />
     <Book Series="Rogue Sun" Number="1" Volume="2022" />
     <Book Series="Rogue Sun" Number="2" Volume="2022" />
@@ -40,6 +39,9 @@
     <Book Series="The Dead Lucky" Number="4" Volume="2022" />
     <Book Series="The Dead Lucky" Number="5" Volume="2022" />
     <Book Series="The Dead Lucky" Number="6" Volume="2022" />
+    <Book Series="Inferno Girl Red" Number="1" Volume="2023" />
+    <Book Series="Inferno Girl Red" Number="2" Volume="2023" />
+    <Book Series="Inferno Girl Red" Number="3" Volume="2023" />
     <Book Series="Rogue Sun" Number="7" Volume="2022" />
     <Book Series="Rogue Sun" Number="8" Volume="2022" />
     <Book Series="Rogue Sun" Number="9" Volume="2022" />
@@ -82,6 +84,9 @@
     <Book Series="No/One" Number="8" Volume="2023" />
     <Book Series="No/One" Number="9" Volume="2023" />
     <Book Series="No/One" Number="10" Volume="2023" />
+    <Book Series="Inferno Girl Red" Number="1" Volume="2025" />
+    <Book Series="Inferno Girl Red" Number="2" Volume="2025" />
+    <Book Series="Inferno Girl Red" Number="3" Volume="2025" />
     
     <!-- The Catalyst War Era (Parallel Timelines combined) -->
     <Book Series="Radiant Black" Number="25" Volume="2021" />
