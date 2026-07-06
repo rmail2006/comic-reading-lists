@@ -24,7 +24,7 @@
     <Book Series="Scooby Apocalypse" Number="20" Volume="2016" />
     <Book Series="Scooby Apocalypse" Number="21" Volume="2016" />
     <Book Series="Scooby Apocalypse" Number="22" Volume="2016" />
-    <Book Series="Super Sons/Dynomutt Special" Number="1" Volume="2016" />
+    <Book Series="Super Sons - Dynomutt Special" Number="1" Volume="2016" />
     <Book Series="Scooby Apocalypse" Number="23" Volume="2016" />
     <Book Series="Scooby Apocalypse" Number="24" Volume="2016" />
     <Book Series="Scooby Apocalypse" Number="25" Volume="2016" />
