@@ -29,7 +29,7 @@
     <Book Series="Scooby Apocalypse" Number="24" Volume="2018" />
     <Book Series="Scooby Apocalypse" Number="25" Volume="2018" />
     <Book Series="Scooby Apocalypse" Number="26" Volume="2018" />
-    <Book Series="Scooby Apocalypse" Number="27" Volume="2018" />
+    <Book Series="Scooby Apocalypse" Number="27" />
     <Book Series="Scooby Apocalypse" Number="28" Volume="2018" />
     <Book Series="Scooby Apocalypse" Number="29" Volume="2018" />
     <Book Series="Scooby Apocalypse" Number="30" Volume="2018" />
