@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ComicList xmlns:xsi="http://w3.org" xmlns:xsd="http://w3.org">
+<ReadingList xmlns:xsi="http://w3.org" xmlns:xsd="http://w3.org">
   <Name>Marvel Zombies Core Timeline</Name>
   <Books>
     <Book Series="Ultimate Fantastic Four" Number="21" Volume="2003" />
@@ -41,4 +41,4 @@
     <Book Series="Marvel Zombies Return" Number="4" Volume="2009" />
     <Book Series="Marvel Zombies Return" Number="5" Volume="2009" />
   </Books>
-</ComicList>
+</ReadingList>
