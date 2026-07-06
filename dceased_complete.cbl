@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ComicList xmlns:xsi="http://w3.org" xmlns:xsd="http://w3.org">
+<ReadingList Name="DCeased Complete Reading Order">
   <Name>DCeased Complete Reading Order</Name>
   <Books>
     <Book Series="DCeased" Number="1" Volume="2019" />
@@ -43,4 +43,4 @@
     <Book Series="DCeased: War of the Undead Gods" Number="7" Volume="2022" />
     <Book Series="DCeased: War of the Undead Gods" Number="8" Volume="2022" />
   </Books>
-</ComicList>
+</ReadingList>
