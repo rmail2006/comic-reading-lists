@@ -120,8 +120,8 @@
     <Book Series="Rogue Sun" Number="32" Volume="2022" />
     <Book Series="Rogue Sun" Number="33" Volume="2022" />
     <Book Series="Rogue Sun" Number="34" Volume="2022" />
-    <Book Series="Rogue Sun" Number="35" Volume="2022" />
-    <Book Series="Rogue Sun" Number="36" Volume="2022" />
+    <!-- <Book Series="Rogue Sun" Number="35" Volume="2022" /> -->
+    <!-- <Book Series="Rogue Sun" Number="36" Volume="2022" /> -->
     <Book Series="Radiant Black" Number="31" Volume="2021" />
     <Book Series="Radiant Black" Number="32" Volume="2021" />
     <Book Series="Radiant Black" Number="33" Volume="2021" />
