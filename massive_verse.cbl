@@ -16,7 +16,7 @@
     <Book Series="Radiant Black" Number="11" Volume="2021" />
     <Book Series="Radiant Black" Number="12" Volume="2021" />
     <Book Series="Inferno Girl Red" Number="1" Volume="2023" />
-    <Book Series="Supermassive" Number="1" Volume="2022" />
+    <Book Series="Supermassive" Number="2022" Volume="2022" />
     <Book Series="Rogue Sun" Number="1" Volume="2022" />
     <Book Series="Rogue Sun" Number="2" Volume="2022" />
     <Book Series="Rogue Sun" Number="3" Volume="2022" />
@@ -57,7 +57,7 @@
     <Book Series="Radiant Black" Number="22" Volume="2021" />
     <Book Series="Radiant Black" Number="23" Volume="2021" />
     <Book Series="Radiant Black" Number="24" Volume="2021" />
-    <Book Series="Supermassive" Number="1" Volume="2023" />
+    <Book Series="Supermassive" Number="2023" Volume="2022" />
 
     <!-- ==================== YEAR THREE & FOUR MODERN CONTINUITY ==================== -->
     <Book Series="The Dead Lucky" Number="7" Volume="2022" />
@@ -90,7 +90,7 @@
     <Book Series="Radiant Black" Number="28" Volume="2021" />
     <Book Series="Radiant Black" Number="29" Volume="2021" />
     <Book Series="Radiant Black" Number="30" Volume="2021" />
-    <Book Series="Supermassive" Number="1" Volume="2024" />
+    <Book Series="Supermassive" Number="2024" Volume="2022" />
     <Book Series="Rogue Sun" Number="19" Volume="2022" />
     <Book Series="Rogue Sun" Number="20" Volume="2022" />
     <Book Series="Rogue Sun" Number="21" Volume="2022" />
@@ -99,7 +99,7 @@
     <Book Series="Rogue Sun" Number="24" Volume="2022" />
 
     <!-- Modern Era (2025–2026 Launches) -->
-    <Book Series="Supermassive" Number="1" Volume="2025" />
+    <Book Series="Supermassive" Number="2025" Volume="2022" />
     <Book Series="Radiant Black" Number="31" Volume="2021" />
     <Book Series="Radiant Black" Number="32" Volume="2021" />
     <Book Series="Radiant Black" Number="33" Volume="2021" />
