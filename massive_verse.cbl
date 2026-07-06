@@ -85,11 +85,17 @@
     
     <!-- The Catalyst War Era (Parallel Timelines combined) -->
     <Book Series="Radiant Black" Number="25" Volume="2021" />
+    <Book Series="Radiant Black" Number="25.5" Volume="2021" />
     <Book Series="Radiant Black" Number="26" Volume="2021" />
+    <Book Series="Radiant Black" Number="26.5" Volume="2021" />
     <Book Series="Radiant Black" Number="27" Volume="2021" />
+    <Book Series="Radiant Black" Number="27.5" Volume="2021" />
     <Book Series="Radiant Black" Number="28" Volume="2021" />
+    <Book Series="Radiant Black" Number="28.5" Volume="2021" />
     <Book Series="Radiant Black" Number="29" Volume="2021" />
+    <Book Series="Radiant Black" Number="29.5" Volume="2021" />
     <Book Series="Radiant Black" Number="30" Volume="2021" />
+    <Book Series="Radiant Black" Number="30.5" Volume="2021" />
     <Book Series="Supermassive" Number="2024" Volume="2022" />
     <Book Series="Rogue Sun" Number="19" Volume="2022" />
     <Book Series="Rogue Sun" Number="20" Volume="2022" />
