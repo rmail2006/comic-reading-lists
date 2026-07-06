@@ -10,7 +10,6 @@
     <Book Series="DC vs. Vampires" Number="6" Volume="2021" />
     <Book Series="DC vs. Vampires: Hunters" Number="1" Volume="2022" />
     <Book Series="DC vs. Vampires: Killers" Number="1" Volume="2022" />
-    <Book Series="DC vs. Vampires: Lazarus Injection" Number="1" Volume="2022" />
     <Book Series="DC vs. Vampires" Number="7" Volume="2021" />
     <Book Series="DC vs. Vampires: All-Out War" Number="1" Volume="2022" />
     <Book Series="DC vs. Vampires" Number="8" Volume="2021" />
