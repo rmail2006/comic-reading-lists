@@ -67,9 +67,8 @@
     <Book Series="Green Lantern Corps" Volume="2025" Number="8" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="27" Year="2025" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="9" Year="2025" />
-	<Book Series="Green Lantern" Volume="2023" Number="28" Year="2025" />
-	<Book Series="Green Lantern Corps" Volume="2025" Number="10" Year="2025" />
-	<Book Series="Green Lantern" Volume="2023" Number="29" Year="2025" />
-	<Book Series="Green Lantern Corps" Volume="2025" Number="11" Year="2025" />
+    <Book Series="Green Lantern" Volume="2023" Number="28" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="10" Year="2025" />
+    <Book Series="Green Lantern" Volume="2023" Number="29" Year="2025" />
   </Books>
 </ReadingList>
