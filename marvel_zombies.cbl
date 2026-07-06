@@ -41,6 +41,11 @@
     <Book Series="Marvel Zombies 5" Number="3" Volume="2010" />
     <Book Series="Marvel Zombies 5" Number="4" Volume="2010" />
     <Book Series="Marvel Zombies 5" Number="5" Volume="2010" />
+    <Book Series="Marvel Zombies Supreme" Number="1" Volume="2011" />
+    <Book Series="Marvel Zombies Supreme" Number="2" Volume="2011" />
+    <Book Series="Marvel Zombies Supreme" Number="3" Volume="2011" />
+    <Book Series="Marvel Zombies Supreme" Number="4" Volume="2011" />
+    <Book Series="Marvel Zombies Supreme" Number="5" Volume="2011" />
     <Book Series="Marvel Zombies Destroy!" Number="1" Volume="2012" />
     <Book Series="Marvel Zombies Destroy!" Number="2" Volume="2012" />
     <Book Series="Marvel Zombies Destroy!" Number="3" Volume="2012" />
