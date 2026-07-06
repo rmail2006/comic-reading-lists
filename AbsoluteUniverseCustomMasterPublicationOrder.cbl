@@ -110,5 +110,6 @@
     <Book Series="Absolute Green Arrow" Volume="2026" Number="1" Year="2026" />
     <Book Series="Absolute Green Arrow" Volume="2026" Number="2" Year="2026" />
     <Book Series="Absolute Catwoman" Volume="2026" Number="1" Year="2026" />
+    <Book Series="Absolute Martian Manhunter" Volume="2025" Number="12" Year="2026" />
   </Books>
 </ReadingList>
