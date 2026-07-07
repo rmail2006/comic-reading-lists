@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsi="http://w3.org" xmlns:xsd="http://w3.org">
-  <Name>DC Absolute Universe Complete Reading Order</Name>
+  <Name>PromotedOmnibus - Absolute Universe - Publication Order</Name>
   <Books>
     <!-- ==================== WAVE 1: THE TRINITY FOUNDATION (VOL 1) ==================== -->
     <Book Series="DC All In Special" Number="1" Volume="2024" />
