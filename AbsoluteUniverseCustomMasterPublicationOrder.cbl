@@ -122,7 +122,7 @@
     <Book Series="Absolute Martian Manhunter" Number="10" Volume="2025" />
 
     <!-- Absolute Wonder Woman Vol 3: Season of the Witch Core -->
-    <Book Series="Absolute Wonder Woman Annual" Number="1" Volume="2026" />
+    <Book Series="Absolute Wonder Woman Annual" Number="2026" Volume="2026" />
     <Book Series="Absolute Wonder Woman" Number="16" Volume="2024" />
     <Book Series="Absolute Wonder Woman" Number="17" Volume="2024" />
     <Book Series="Absolute Wonder Woman" Number="18" Volume="2024" />
