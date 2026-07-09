@@ -110,7 +110,12 @@
     <Book Series="Green Lantern" Volume="2023" Number="32" Year="2026" />
     
     <!-- LEGACY MILESTONE CELEBRATION (Acts as Issue #33) -->
-    <Book Series="Green Lantern" Volume="2023" Number="600" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="33" Year="2026" />
+
+    <!-- Post-Anniversary Continuity Extensions -->
+    <Book Series="Green Lantern" Volume="2023" Number="34" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="35" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="36" Year="2026" />
 
     <!-- Green Lantern Corps Vol 3: Parallax Showdown Endgame -->
     <Book Series="Green Lantern Corps" Volume="2025" Number="13" Year="2026" />
