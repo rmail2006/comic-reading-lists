@@ -124,5 +124,9 @@
     <Book Series="Green Lantern Corps" Volume="2025" Number="16" Year="2026" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="17" Year="2026" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="18" Year="2026" />
+
+    <!-- ==================== PHASE 8: POST-ENDGAME ERA ==================== -->
+    <!-- Green Lantern Mainline Continuation -->
+    <Book Series="Green Lantern" Volume="2023" Number="37" Year="2023" />
   </Books>
 </ReadingList>
