@@ -158,5 +158,14 @@
     <Book Series="Absolute Green Arrow" Number="1" Volume="2026" />
     <Book Series="Absolute Green Arrow" Number="2" Volume="2026" />
     <Book Series="Absolute Catwoman" Number="1" Volume="2026" />
+    <Book Series="Absolute Batman" Number="21" Volume="2024" />
+    <Book Series="Absolute Superman" Number="20" Volume="2024" />
+    <Book Series="Absolute Wonder Woman" Number="21" Volume="2024" />
+    <Book Series="Absolute Batman" Number="22" Volume="2024" />
+    <Book Series="Absolute Catwoman" Number="2" Volume="2026" />
+    <Book Series="Absolute Flash" Number="17" Volume="2025" />
+    <Book Series="Absolute Green Arrow" Number="3" Volume="2026" />
+    <Book Series="Absolute Superman" Number="21" Volume="2024" />
+    <Book Series="Absolute Wonder Woman" Number="22" Volume="2024" />
   </Books>
 </ReadingList>
