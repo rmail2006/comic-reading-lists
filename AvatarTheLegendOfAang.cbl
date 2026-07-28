@@ -33,7 +33,7 @@
     <Book Series="Avatar - The Kyoshi Warriors" Volume="2026" Number="1" Year="2026" />
     <Book Series="Avatar - The Kyoshi Warriors" Volume="2026" Number="2" Year="2026" />
     <Book Series="Avatar - The Kyoshi Warriors" Volume="2026" Number="3" Year="2026" />
-    <Book Series="Avatar - Avatar Legends - Masters of the Elements" Volume="2026" Number="1" Year="2026" />
+    <Book Series="Nickelodeon Avatar Legends - Masters of The Elements" Volume="2026" Number="1" Year="2026" />
     <Book Series="Avatar - Jet - Rebels and Rhinos" Volume="2026" Number="1" Year="2026" />
   </Books>
 </ReadingList>
