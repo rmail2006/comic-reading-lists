@@ -2,8 +2,8 @@
 <ReadingList Name="Event - GL 02 - War of the Green Lanterns">
   <Name>Event - GL 02 - War of the Green Lanterns</Name>
   <Books>
-    <Book Series="Green Lantern" Volume="2005" Number="63" Year="2011" />
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="7" Year="2011" />
+    <Book Series="Green Lantern" Volume="2005" Number="63" Year="2011" />
     <Book Series="Green Lantern Corps" Volume="2006" Number="58" Year="2011" />
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="8" Year="2011" />
     <Book Series="Green Lantern" Volume="2005" Number="64" Year="2011" />
