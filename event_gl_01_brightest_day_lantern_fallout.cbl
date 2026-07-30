@@ -38,6 +38,7 @@
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="4" Year="2010" />
     <Book Series="Brightest Day" Volume="2010" Number="13" Year="2010" />
     <Book Series="Brightest Day" Volume="2010" Number="14" Year="2010" />
+    <Book Series="Green Lantern Larfleeze Christmas Special" Volume="2010" Number="1" Year="2010" />
     <Book Series="Green Lantern" Volume="2005" Number="60" Year="2011" />
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="5" Year="2011" />
     <Book Series="Brightest Day" Volume="2010" Number="15" Year="2011" />
@@ -47,7 +48,6 @@
     <Book Series="Brightest Day" Volume="2010" Number="17" Year="2011" />
     <Book Series="Brightest Day" Volume="2010" Number="18" Year="2011" />
     <Book Series="Green Lantern" Volume="2005" Number="62" Year="2011" />
-    <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="7" Year="2011" />
     <Book Series="Brightest Day" Volume="2010" Number="19" Year="2011" />
     <Book Series="Brightest Day" Volume="2010" Number="20" Year="2011" />
     <Book Series="Brightest Day" Volume="2010" Number="21" Year="2011" />
