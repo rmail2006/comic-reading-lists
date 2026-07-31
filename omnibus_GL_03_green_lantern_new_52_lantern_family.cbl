@@ -146,6 +146,6 @@
     <Book Series="Green Lantern" Volume="2012" Number="34" Year="2014" />
     <Book Series="Green Lantern Corps" Volume="2011" Number="34" Year="2014" />
     <Book Series="Green Lantern New Guardians" Volume="2011" Number="34" Year="2014" />
-    <Book Series="Green Lantern Corps Annual" Volume="2014" Number="2" Year="2014" />
+    <Book Series="Green Lantern Corps Annual" Volume="2014" Number="2" Year="2013" />
   </Books>
 </ReadingList>
