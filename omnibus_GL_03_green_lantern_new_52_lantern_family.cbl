@@ -107,7 +107,7 @@
     <Book Series="Green Lantern" Volume="2011" Number="23.2" Year="2013" />
     <Book Series="Green Lantern" Volume="2011" Number="23.3" Year="2013" />
     <Book Series="Green Lantern" Volume="2011" Number="23.4" Year="2013" />
-    <Book Series="Flash Annual" Volume="2012" Number="2" Year="2013" />
+    <Book Series="The Flash Annual" Volume="2012" Number="2" Year="2013" />
     <Book Series="Green Lantern" Volume="2011" Number="24" Year="2013" />
     <Book Series="Green Lantern Corps" Volume="2011" Number="24" Year="2013" />
     <Book Series="Green Lantern New Guardians" Volume="2011" Number="24" Year="2013" />
