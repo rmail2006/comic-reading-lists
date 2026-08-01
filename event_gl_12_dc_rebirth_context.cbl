@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReadingList Name="Event - DC Rebirth">
-  <Name>Event - DC Rebirth</Name>
+<ReadingList Name="Event - GL 12 - DC Rebirth Context">
+  <Name>Event - GL 12 - DC Rebirth Context</Name>
   <Books>
     <Book Series="DC Universe Rebirth" Volume="2016" Number="1" Year="2016" />
     <Book Series="The Flash Rebirth" Volume="2016" Number="1" Year="2016" />
