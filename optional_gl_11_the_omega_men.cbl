@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReadingList Name="Optional - GL 11 - The Omega Men">
-  <Name>Optional - GL 11 - The Omega Men</Name>
+<ReadingList Name="Event - GL 11 - The Omega Men">
+  <Name>Event - GL 11 - The Omega Men</Name>
   <Books>
     <Book Series="The Omega Men" Volume="2015" Number="1" Year="2015" />
     <Book Series="The Omega Men" Volume="2015" Number="2" Year="2015" />
