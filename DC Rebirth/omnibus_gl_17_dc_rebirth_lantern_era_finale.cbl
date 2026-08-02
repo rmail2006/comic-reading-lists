@@ -4,7 +4,7 @@
   <Books>
     <Book Series="Hal Jordan and the Green Lantern Corps" Volume="2016" Number="30" Year="2016" />
     <Book Series="Hal Jordan and the Green Lantern Corps" Volume="2016" Number="31" Year="2016" />
-    <Book Series="Dark Nights: Batman The Dawnbreaker" Volume="2017" Number="31" Year="2017" />
+    <Book Series="Dark Nights: Batman The Dawnbreaker" Volume="2017" Number="1" Year="2017" />
 
     <Book Series="Hal Jordan and the Green Lantern Corps" Volume="2016" Number="32" Year="2017" />
     <Book Series="Hal Jordan and the Green Lantern Corps" Volume="2016" Number="33" Year="2018" />
