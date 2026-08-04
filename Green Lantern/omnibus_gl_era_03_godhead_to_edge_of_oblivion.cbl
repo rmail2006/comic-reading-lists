@@ -40,11 +40,19 @@
     <Book Series="Sinestro" Volume="2014" Number="11" Year="2015"/>
     <Book Series="Sinestro Annual" Volume="2015" Number="1" Year="2015"/>
     <Book Series="Justice League The Darkseid War Green Lantern" Volume="2015" Number="1" Year="2015"/>
-    <Book Series="Green Lantern Reading Notes" Volume="2026" Number="302" Year="2026"/>
-    <Book Series="Convergence Green Lantern Parallax" Volume="2015" Number="1" Year="2015"/>
-    <Book Series="Convergence Green Lantern Corps" Volume="2015" Number="1" Year="2015"/>
-    <Book Series="Convergence Green Lantern Parallax" Volume="2015" Number="2" Year="2015"/>
-    <Book Series="Convergence Green Lantern Corps" Volume="2015" Number="2" Year="2015"/>
+    <Book Series="Convergence" Volume="2015" Number="0" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="1" Year="2015" />
+    <Book Series="Convergence Green Lantern Parallax" Volume="2015" Number="1" Year="2015" />
+    <Book Series="Convergence Green Lantern Corps" Volume="2015" Number="1" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="2" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="3" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="4" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="5" Year="2015" />
+    <Book Series="Convergence Green Lantern Parallax" Volume="2015" Number="2" Year="2015" />
+    <Book Series="Convergence Green Lantern Corps" Volume="2015" Number="2" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="6" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="7" Year="2015" />
+    <Book Series="Convergence" Volume="2015" Number="8" Year="2015" />
     <Book Series="DC Sneak Peek Green Lantern" Volume="2015" Number="1" Year="2015"/>
     <Book Series="Green Lantern" Volume="2011" Number="41" Year="2015"/>
     <Book Series="Green Lantern" Volume="2011" Number="42" Year="2015"/>
