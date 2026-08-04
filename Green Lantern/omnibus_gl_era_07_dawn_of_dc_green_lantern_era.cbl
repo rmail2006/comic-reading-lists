@@ -71,5 +71,25 @@
     <Book Series="Green Lantern Corps" Volume="2025" Number="8" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="27" Year="2025" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="9" Year="2025" />
+
+    <Book Series="Green Lantern" Volume="2023" Number="28" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="10" Year="2025" />
+    <Book Series="Green Lantern" Volume="2023" Number="29" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="11" Year="2025" />
+    <Book Series="Green Lantern" Volume="2023" Number="30" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="12" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="31" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="13" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="32" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="14" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="33" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="15" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="34" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="16" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="35" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="17" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="36" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="18" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="37" Year="2026" />
   </Books>
 </ReadingList>
