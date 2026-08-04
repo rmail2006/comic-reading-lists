@@ -2,7 +2,10 @@
 <ReadingList Name="Omnibus - GL Era 03 - Godhead to Edge of Oblivion">
   <Name>Omnibus - GL Era 03 - Godhead to Edge of Oblivion</Name>
   <Books>
+
+    <!-- Note #301: Optional Read - Infinity Man and the Forever People (2014) #1-4 before Godhead for New Gods context -->
     <Book Series="Green Lantern Reading Notes" Volume="2026" Number="301" Year="2026"/>
+
     <Book Series="Green Lantern New Gods Godhead" Volume="2014" Number="1" Year="2014"/>
     <Book Series="Green Lantern" Volume="2011" Number="35" Year="2014"/>
     <Book Series="Green Lantern Corps" Volume="2011" Number="35" Year="2014"/>
@@ -74,15 +77,10 @@
     <Book Series="Green Lantern" Volume="2011" Number="50" Year="2016"/>
     <Book Series="Green Lantern" Volume="2011" Number="51" Year="2016"/>
     <Book Series="Green Lantern" Volume="2011" Number="52" Year="2016"/>
-    <Book Series="Lobo" Volume="2014" Number="1" Year="2014"/>
-    <Book Series="Lobo" Volume="2014" Number="2" Year="2014"/>
-    <Book Series="Lobo" Volume="2014" Number="3" Year="2015"/>
-    <Book Series="Lobo" Volume="2014" Number="4" Year="2015"/>
-    <Book Series="Lobo" Volume="2014" Number="5" Year="2015"/>
-    <Book Series="Lobo" Volume="2014" Number="6" Year="2015"/>
-    <Book Series="Lobo" Volume="2014" Number="7" Year="2015"/>
-    <Book Series="Lobo" Volume="2014" Number="8" Year="2015"/>
-    <Book Series="Lobo" Volume="2014" Number="9" Year="2015"/>
+
+    <!-- Note #304: Optional Read - Lobo (2014) #1-9 before Sinestro #12 for Lobo's New 52 setup -->
+    <Book Series="Green Lantern Reading Notes" Volume="2026" Number="304" Year="2026" />
+
     <Book Series="Sinestro" Volume="2014" Number="12" Year="2015"/>
     <Book Series="Sinestro" Volume="2014" Number="13" Year="2015"/>
     <Book Series="Sinestro" Volume="2014" Number="14" Year="2015"/>
@@ -90,6 +88,10 @@
     <Book Series="Lobo" Volume="2014" Number="10" Year="2015"/>
     <Book Series="Lobo" Volume="2014" Number="11" Year="2015"/>
     <Book Series="Sinestro" Volume="2014" Number="15" Year="2015"/>
+
+    <!-- Note #305: Optional Read - Lobo (2014) #12-13 after Sinestro #15 for Lobo's series finale -->
+    <Book Series="Green Lantern Reading Notes" Volume="2026" Number="305" Year="2026" />
+
     <Book Series="Sinestro" Volume="2014" Number="16" Year="2015"/>
     <Book Series="Sinestro" Volume="2014" Number="17" Year="2015"/>
     <Book Series="Sinestro" Volume="2014" Number="18" Year="2015"/>
@@ -98,26 +100,14 @@
     <Book Series="Sinestro" Volume="2014" Number="21" Year="2016"/>
     <Book Series="Sinestro" Volume="2014" Number="22" Year="2016"/>
     <Book Series="Sinestro" Volume="2014" Number="23" Year="2016"/>
-    <Book Series="Lobo" Volume="2014" Number="12" Year="2015"/>
-    <Book Series="Lobo" Volume="2014" Number="13" Year="2015"/>
     <Book Series="Green Lantern Corps Edge of Oblivion" Volume="2016" Number="1" Year="2016"/>
     <Book Series="Green Lantern Corps Edge of Oblivion" Volume="2016" Number="2" Year="2016"/>
     <Book Series="Green Lantern Corps Edge of Oblivion" Volume="2016" Number="3" Year="2016"/>
     <Book Series="Green Lantern Corps Edge of Oblivion" Volume="2016" Number="4" Year="2016"/>
     <Book Series="Green Lantern Corps Edge of Oblivion" Volume="2016" Number="5" Year="2016"/>
     <Book Series="Green Lantern Corps Edge of Oblivion" Volume="2016" Number="6" Year="2016"/>
+
+    <!-- Note #303: Optional Read - The Omega Men (2015) #1-12 after Edge of Oblivion for Kyle Rayner's side story -->
     <Book Series="Green Lantern Reading Notes" Volume="2026" Number="303" Year="2026"/>
-    <Book Series="The Omega Men" Volume="2015" Number="1" Year="2015"/>
-    <Book Series="The Omega Men" Volume="2015" Number="2" Year="2015"/>
-    <Book Series="The Omega Men" Volume="2015" Number="3" Year="2015"/>
-    <Book Series="The Omega Men" Volume="2015" Number="4" Year="2015"/>
-    <Book Series="The Omega Men" Volume="2015" Number="5" Year="2015"/>
-    <Book Series="The Omega Men" Volume="2015" Number="6" Year="2015"/>
-    <Book Series="The Omega Men" Volume="2015" Number="7" Year="2015"/>
-    <Book Series="The Omega Men" Volume="2015" Number="8" Year="2016"/>
-    <Book Series="The Omega Men" Volume="2015" Number="9" Year="2016"/>
-    <Book Series="The Omega Men" Volume="2015" Number="10" Year="2016"/>
-    <Book Series="The Omega Men" Volume="2015" Number="11" Year="2016"/>
-    <Book Series="The Omega Men" Volume="2015" Number="12" Year="2016"/>
   </Books>
 </ReadingList>
