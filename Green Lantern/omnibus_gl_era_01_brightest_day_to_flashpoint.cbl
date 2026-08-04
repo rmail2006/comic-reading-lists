@@ -75,5 +75,11 @@
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="12" Year="2011" />
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="13" Year="2011" />
     <Book Series="Green Lantern Reading Notes" Volume="2026" Number="101" Year="2026" />
+    <Book Series="Flashpoint Abin Sur The Green Lantern" Volume="2011" Number="1" Year="2011" />
+    <Book Series="Flashpoint Abin Sur The Green Lantern" Volume="2011" Number="2" Year="2011" />
+    <Book Series="Flashpoint Abin Sur The Green Lantern" Volume="2011" Number="3" Year="2011" />
+    <Book Series="Flashpoint Hal Jordan" Volume="2011" Number="1" Year="2011" />
+    <Book Series="Flashpoint Hal Jordan" Volume="2011" Number="2" Year="2011" />
+    <Book Series="Flashpoint Hal Jordan" Volume="2011" Number="3" Year="2011" />
   </Books>
 </ReadingList>
