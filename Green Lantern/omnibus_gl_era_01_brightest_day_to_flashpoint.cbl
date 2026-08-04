@@ -74,6 +74,6 @@
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="11" Year="2011" />
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="12" Year="2011" />
     <Book Series="Green Lantern Emerald Warriors" Volume="2010" Number="13" Year="2011" />
-    <Book Series="Green Lantern Reading Notes" Volume="2026" Number="1" Year="2026" />
+    <Book Series="Green Lantern Reading Notes" Volume="2026" Number="101" Year="2026" />
   </Books>
 </ReadingList>
