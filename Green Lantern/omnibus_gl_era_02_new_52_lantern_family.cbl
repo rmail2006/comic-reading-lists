@@ -128,45 +128,45 @@
     <Book Series="Green Lantern Corps Annual" Volume="2013" Number="2" Year="2014" />
     <Book Series="Green Lantern New Guardians" Volume="2011" Number="27" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="27" Year="2014" />
-    <Book Series="Green Lantern" Volume="2011" Number="28" Year="2014" />
-    <Book Series="Green Lantern Corps" Volume="2011" Number="28" Year="2014" />
-    <Book Series="Green Lantern New Guardians" Volume="2011" Number="28" Year="2014" />
-    <Book Series="Green Lantern" Volume="2011" Number="29" Year="2014" />
-    <Book Series="Green Lantern Corps" Volume="2011" Number="29" Year="2014" />
-    <Book Series="Green Lantern New Guardians" Volume="2011" Number="29" Year="2014" />
-    <Book Series="Green Lantern" Volume="2011" Number="30" Year="2014" />
-    <Book Series="Green Lantern Corps" Volume="2011" Number="30" Year="2014" />
-    <Book Series="Green Lantern New Guardians" Volume="2011" Number="30" Year="2014" />
-    <Book Series="Green Lantern New Guardians Annual" Volume="2013" Number="2" Year="2014" />
-    <Book Series="Green Lantern" Volume="2011" Number="31" Year="2014" />
-    <Book Series="Green Lantern Corps" Volume="2011" Number="31" Year="2014" />
-    <Book Series="Green Lantern New Guardians" Volume="2011" Number="31" Year="2014" />
-    <Book Series="Green Lantern" Volume="2011" Number="32" Year="2014" />
-    <Book Series="Green Lantern Corps" Volume="2011" Number="32" Year="2014" />
-    <Book Series="Green Lantern New Guardians" Volume="2011" Number="32" Year="2014" />
-    <Book Series="Green Lantern" Volume="2011" Number="33" Year="2014" />
-    <Book Series="Green Lantern Corps" Volume="2011" Number="33" Year="2014" />
-    <Book Series="Green Lantern New Guardians" Volume="2011" Number="33" Year="2014" />
-    <Book Series="Green Lantern" Volume="2011" Number="34" Year="2014" />
-    <Book Series="Green Lantern Corps" Volume="2011" Number="34" Year="2014" />
-    <Book Series="Green Lantern New Guardians" Volume="2011" Number="34" Year="2014" />
     <Book Series="Green Lantern Reading Notes" Volume="2026" Number="203" Year="2026" />
     <Book Series="Supergirl" Volume="2011" Number="26" Year="2014" />
     <Book Series="Supergirl" Volume="2011" Number="27" Year="2014" />
+    <Book Series="Green Lantern" Volume="2011" Number="28" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="28" Year="2014" />
     <Book Series="Supergirl" Volume="2011" Number="28" Year="2014" />
     <Book Series="Supergirl" Volume="2011" Number="29" Year="2014" />
+    <Book Series="Green Lantern" Volume="2011" Number="29" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="29" Year="2014" />
     <Book Series="Supergirl" Volume="2011" Number="30" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="30" Year="2014" />
     <Book Series="Supergirl" Volume="2011" Number="31" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="31" Year="2014" />
-    <Book Series="Supergirl" Volume="2011" Number="32" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="32" Year="2014" />
+    <Book Series="Supergirl" Volume="2011" Number="32" Year="2014" />
     <Book Series="Supergirl" Volume="2011" Number="33" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="33" Year="2014" />
     <Book Series="Red Lanterns Annual" Volume="2014" Number="1" Year="2014" />
     <Book Series="Red Lanterns" Volume="2011" Number="34" Year="2014" />
+    <Book Series="Green Lantern Corps" Volume="2011" Number="28" Year="2014" />
+    <Book Series="Green Lantern New Guardians" Volume="2011" Number="28" Year="2014" />
+    <Book Series="Green Lantern" Volume="2011" Number="30" Year="2014" />
+    <Book Series="Green Lantern Corps" Volume="2011" Number="29" Year="2014" />
+    <Book Series="Green Lantern New Guardians" Volume="2011" Number="29" Year="2014" />
+    <Book Series="Green Lantern" Volume="2011" Number="31" Year="2014" />
+    <Book Series="Green Lantern Corps" Volume="2011" Number="30" Year="2014" />
+    <Book Series="Green Lantern New Guardians" Volume="2011" Number="30" Year="2014" />
+    <Book Series="Green Lantern New Guardians Annual" Volume="2013" Number="2" Year="2014" />
+    <Book Series="Green Lantern" Volume="2011" Number="32" Year="2014" />
+    <Book Series="Green Lantern Corps" Volume="2011" Number="31" Year="2014" />
+    <Book Series="Green Lantern New Guardians" Volume="2011" Number="31" Year="2014" />
+    <Book Series="Green Lantern" Volume="2011" Number="33" Year="2014" />
+    <Book Series="Green Lantern Corps" Volume="2011" Number="32" Year="2014" />
+    <Book Series="Green Lantern New Guardians" Volume="2011" Number="32" Year="2014" />
+    <Book Series="Green Lantern" Volume="2011" Number="34" Year="2014" />
+    <Book Series="Green Lantern Corps" Volume="2011" Number="33" Year="2014" />
+    <Book Series="Green Lantern New Guardians" Volume="2011" Number="33" Year="2014" />
+    <Book Series="Green Lantern Corps" Volume="2011" Number="34" Year="2014" />
+    <Book Series="Green Lantern New Guardians" Volume="2011" Number="34" Year="2014" />
     <Book Series="Sinestro" Volume="2014" Number="1" Year="2014" />
     <Book Series="Sinestro" Volume="2014" Number="2" Year="2014" />
     <Book Series="Sinestro" Volume="2014" Number="3" Year="2014" />
