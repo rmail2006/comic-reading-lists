@@ -91,5 +91,13 @@
     <Book Series="Green Lantern" Volume="2023" Number="36" Year="2026" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="18" Year="2026" />
     <Book Series="Green Lantern" Volume="2023" Number="37" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="38" Year="2026" />
+
+    <!-- DC K.O. Lantern tie-in / current-era side issue -->
+    <Book Series="DC K.O. Green Lantern Galactic Slam" Volume="2026" Number="1" Year="2026" />
+
+    <!-- Green Lantern Corps continuation -->
+    <Book Series="Green Lantern Corps" Volume="2025" Number="19" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="20" Year="2026" />
   </Books>
 </ReadingList>
