@@ -15,7 +15,7 @@
     <Book Series="Knight Terrors: Green Lantern" Volume="2023" Number="2" Year="2023" />
     <Book Series="Knight Terrors" Volume="2023" Number="3" Year="2023" />
     <Book Series="Knight Terrors" Volume="2023" Number="4" Year="2023" />
-    <Book Series="Knight Terrors: Night's End" Volume="2023" Number="1" Year="2023" />
+    <Book Series="Knight Terrors: Night&#x27;s End" Volume="2023" Number="1" Year="2023" />
 
     <!-- ==================== PHASE 2: PARALLEL STANDALONE VOL 1 ARCS ==================== -->
     <!-- Green Lantern: A New Dawn Core Block -->
@@ -52,7 +52,7 @@
     <!-- ==================== GLOBAL EVENT: ABSOLUTE POWER UNIVERSE FLOW ==================== -->
     <Book Series="Absolute Power: Ground Zero" Volume="2024" Number="1" Year="2024" />
     <Book Series="Absolute Power" Volume="2024" Number="1" Year="2024" />
-    <Book Series="Absolute Power: Task Force VII" Volume="2024" Number="3" Year="2024" /> 
+    <Book Series="Absolute Power: Task Force VII" Volume="2024" Number="3" Year="2024" />
     <Book Series="Green Lantern" Volume="2023" Number="13" Year="2024" />
     <Book Series="Absolute Power" Volume="2024" Number="2" Year="2024" />
     <Book Series="Green Lantern" Volume="2023" Number="14" Year="2024" />
@@ -65,16 +65,17 @@
     <Book Series="Green Lantern" Volume="2023" Number="16" Year="2024" />
     <Book Series="Green Lantern" Volume="2023" Number="17" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="18" Year="2025" />
+
+    <!-- The Critical Rebellion Crossover Interludes -->
+    <Book Series="Green Lantern: Civil Corps Special" Volume="2025" Number="1" Year="2025" />
+    <Book Series="Green Lantern: Fractured Spectrum Special" Volume="2025" Number="1" Year="2025" />
+
     <Book Series="Green Lantern" Volume="2023" Number="19" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="20" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="21" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="22" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="23" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="24" Year="2025" />
-    
-    <!-- The Critical Rebellion Crossover Interludes -->
-    <Book Series="Green Lantern: Civil Corps Special" Volume="2025" Number="1" Year="2025" />
-    <Book Series="Green Lantern: Fractured Spectrum Special" Volume="2025" Number="1" Year="2025" />
 
     <!-- ==================== PHASE 5: THE CORE CORPS EXPANSION ==================== -->
     <!-- Green Lantern Corps Vol 1: Ring Hunters Arc -->
@@ -85,48 +86,47 @@
     <Book Series="Green Lantern Corps" Volume="2025" Number="5" Year="2025" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="6" Year="2025" />
 
-    <!-- ==================== PHASE 6: THE STARBREAKER SUPREMACEY COLLISION ==================== -->
+    <!-- ==================== PHASE 6: THE STARBREAKER SUPREMACY COLLISION ==================== -->
     <Book Series="Green Lantern" Volume="2023" Number="25" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="7" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="26" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="8" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="27" Year="2025" />
-    
+    <Book Series="Green Lantern Corps" Volume="2025" Number="9" Year="2025" />
+
     <!-- Guy Gardner's Entity Hunt Prelude -->
     <Book Series="Tales of the Green Lantern Corps: Guy Gardner" Volume="2026" Number="1" Year="2026" />
-    
-    <!-- Green Lantern Corps Vol 2: Starbreaker Core Arc -->
-    <Book Series="Green Lantern Corps" Volume="2025" Number="7" Year="2025" />
-    <Book Series="Green Lantern Corps" Volume="2025" Number="8" Year="2025" />
-    <Book Series="Green Lantern Corps" Volume="2025" Number="9" Year="2025" />
-    <Book Series="Green Lantern Corps" Volume="2025" Number="10" Year="2025" />
-    <Book Series="Green Lantern Corps" Volume="2025" Number="11" Year="2025" />
-    <Book Series="Green Lantern Corps" Volume="2025" Number="12" Year="2026" />
 
-    <!-- ==================== PHASE 7: THE REVELATION & ENDGAME ERA ==================== -->
-    <!-- The Book of Oa Mainline Climax -->
+    <!-- ==================== PHASE 7: POST-STARBREAKER / BOOK OF OA ERA ==================== -->
+
+    <!-- Green Lantern Vol 6: With This Ring / Book of Oa arc -->
     <Book Series="Green Lantern" Volume="2023" Number="28" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="29" Year="2025" />
     <Book Series="Green Lantern" Volume="2023" Number="30" Year="2026" />
     <Book Series="Green Lantern" Volume="2023" Number="31" Year="2026" />
     <Book Series="Green Lantern" Volume="2023" Number="32" Year="2026" />
-    
-    <!-- LEGACY MILESTONE CELEBRATION (Acts as Issue #33) -->
     <Book Series="Green Lantern" Volume="2023" Number="33" Year="2026" />
-
-    <!-- Post-Anniversary Continuity Extensions -->
+    
+    <!-- Green Lantern Corps Vol 2: New World Order / A New World arc -->
+    <Book Series="Green Lantern Corps" Volume="2025" Number="10" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="11" Year="2025" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="12" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="13" Year="2026" />
+    
+    <!-- Green Lantern continuation -->
     <Book Series="Green Lantern" Volume="2023" Number="34" Year="2026" />
     <Book Series="Green Lantern" Volume="2023" Number="35" Year="2026" />
     <Book Series="Green Lantern" Volume="2023" Number="36" Year="2026" />
-
-    <!-- Green Lantern Corps Vol 3: Parallax Showdown Endgame -->
-    <Book Series="Green Lantern Corps" Volume="2025" Number="13" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="37" Year="2026" />
+    <Book Series="Green Lantern" Volume="2023" Number="37" Year="2026" />
+    
+    <!-- Green Lantern Corps continuation -->
     <Book Series="Green Lantern Corps" Volume="2025" Number="14" Year="2026" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="15" Year="2026" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="16" Year="2026" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="17" Year="2026" />
     <Book Series="Green Lantern Corps" Volume="2025" Number="18" Year="2026" />
-
-    <!-- ==================== PHASE 8: POST-ENDGAME ERA ==================== -->
-    <!-- Green Lantern Mainline Continuation -->
-    <Book Series="Green Lantern" Volume="2023" Number="37" Year="2023" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="19" Year="2026" />
+    <Book Series="Green Lantern Corps" Volume="2025" Number="20" Year="2026" />
   </Books>
 </ReadingList>
