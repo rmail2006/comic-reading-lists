@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsi="http://w3.org" xmlns:xsd="http://w3.org">
-  <Name>PromotedOmnibus - Absolute Universe - Publication Order</Name>
+  <Name>Omnibus - Absolute Universe - Publication Order</Name>
   <Books>
     <!-- ==================== WAVE 1: THE TRINITY FOUNDATION (VOL 1) ==================== -->
     <Book Series="DC All In Special" Number="1" Volume="2024" />
@@ -178,5 +178,19 @@
     <!-- Modern Wave 3 Continuing Releases -->
     <Book Series="Absolute Catwoman" Number="2" Volume="2026" />
     <Book Series="Absolute Green Arrow" Number="3" Volume="2026" />
+
+    <!-- ==================== SEPTEMBER 2026 UPDATE PASS ==================== -->
+    <!-- Added/checked after Aug 23rd: current Absolute Universe continuation. -->
+    <Book Series="Absolute Green Lantern" Number="17" Volume="2025" />
+    <Book Series="Absolute Green Lantern" Number="18" Volume="2025" />
+    <Book Series="Absolute Batman" Number="23" Volume="2024" />
+    <Book Series="Absolute Superman" Number="22" Volume="2024" />
+    <Book Series="Absolute Superman" Number="23" Volume="2024" />
+    <Book Series="Absolute Wonder Woman" Number="23" Volume="2024" />
+    <Book Series="Absolute Flash" Number="18" Volume="2025" />
+    <Book Series="Absolute Green Arrow" Number="4" Volume="2026" />
+    <Book Series="Absolute Catwoman" Number="3" Volume="2026" />
+
+    <!-- Not added yet: Absolute Cassandra Cain: The Shadow's Hand #1; you said this has moved to 16 Sept 2026. -->
   </Books>
 </ReadingList>
